@@ -4,6 +4,12 @@
 
 ## Course 2: Front-End Web Development with React
 
+## How to start ?
+1. npm start (package.json directory)
+    (port : 3000)
+2. json-server --watch db.json -p 3001
+    (port : 3001)
+
 ### Assignments
 
 ![node version](https://img.shields.io/badge/node-v6.11.0-green.svg)
